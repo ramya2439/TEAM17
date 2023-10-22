@@ -130,20 +130,20 @@
     background-image: url("https://res.cloudinary.com/dyddqgyby/image/upload/v1696230307/link-bg_q94pxx.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    height: 700px;
+    height: 400px;
     padding: 60px;
     width: 1500px;
 }
 
 .home-infra-head {
-    color: #ffffff;
+    color: #000000;
     font-size: 20px;
     font-family: "Roboto";
     font-weight: 500;
 }
 
 .home-infra-para {
-    color: #ffffff;
+    color: #000000;
     font-family: "Roboto";
     font-size: 16px;
 }
@@ -208,6 +208,8 @@
     color: #191654 !important;
     font-size: 18px;
     font-weight: 600;
+    padding:15px;
+    margin-left:4px;
 }
 
 .align-item {
@@ -233,6 +235,7 @@
 }
 
 .image-set-c {
-    height: 80px;
-    width: 210px;
+    height: 90px;
+    width: 200px;
+    padding:15px;
 }

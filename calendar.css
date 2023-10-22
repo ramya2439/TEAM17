@@ -93,6 +93,8 @@ th {
     color: #191654 !important;
     font-size: 18px;
     font-weight: 600;
+    padding:15px;
+    margin-left:4px;
 }
 
 .align-item {
@@ -120,4 +122,5 @@ th {
 .image-set-c {
     height: 80px;
     width: 200px;
+    padding:15px;
 }

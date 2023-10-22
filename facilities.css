@@ -102,6 +102,8 @@ margin-left:30px;
     color:#191654 !important;
     font-size:18px;
     font-weight:600;
+    padding:15px;
+    margin-left:4px;
 }
 
 .align-item{
@@ -126,5 +128,6 @@ margin-left:30px;
 
 .image-set-c{
     height:80px;
-    width:210px;
+    width:200px;
+    padding:15px;
 }
